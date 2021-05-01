@@ -1,0 +1,8 @@
+{
+    "name": "hexdump",
+    "version": "1.0.0",
+    "repo": "FernandoVelcic/hexdump",
+    "description": "A header-only hexdump library",
+    "keywords": ["hexdump", "cpp"],
+    "src": ["hexdump.hpp"]
+  }
