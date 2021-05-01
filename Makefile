@@ -2,7 +2,7 @@ PROG = hexdumpExample
 
 all: $(PROG)
 
-$(PROG): example.cpp Hexdump.hpp
+$(PROG): example.cpp hexdump.hpp
 	g++ -Wall --pedantic -std=c++14 -o $@ $<
 
 clean:

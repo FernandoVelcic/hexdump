@@ -98,4 +98,4 @@ Produces:
 ```
 ## Usage
 
-Hexdump is header-only.  To use it, simply place the `Hexdump.hpp` file on your include path and `#include` it.  See the example for reference.
+Hexdump is header-only.  To use it, simply place the `hexdump.hpp` file on your include path and `#include` it.  See the example for reference.
